@@ -1,4 +1,4 @@
-name: Java CI
+name: Black Duck 
 
 on: [push]
 
