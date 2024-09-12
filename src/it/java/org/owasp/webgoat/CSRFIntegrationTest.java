@@ -20,7 +20,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DynamicTest;
 import org.junit.jupiter.api.TestFactory;
 import org.owasp.webgoat.container.lessons.Assignment;
-
+//data
 public class CSRFIntegrationTest extends IntegrationTest {
 
   private static final String trickHTML3 =
